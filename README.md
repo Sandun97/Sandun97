@@ -6,7 +6,7 @@ I am a passionate and skilled Full Stack Developer specializing in **PHP**, **C#
 
 - 🌟 **Expertise**: PHP, CodeIgniter, Yii, Laravel, Vue.js, React, JavaScript, MySQL, PostgreSQL, Microsoft SQL Server, HTML, CSS, Bootstrap, Material UI
 - 🎯 **Interests**: Building dynamic web apps, exploring new technologies, and contributing to open-source
-- 📫 **How to reach me**: sandunlakshansilva97@gmail.com
+- 📫 **How to reach me**: sandunlakshansilva97@gmail.com | https://sandun-portfolio-ivory.vercel.app/
 
 ---
 
